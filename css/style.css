@@ -1,7 +1,7 @@
 body {
     background: #000000;
     color: #ffffff;
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1{
@@ -63,7 +63,7 @@ div{
     text-align: left;
 }
 
-footer{
+#footer{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
